@@ -30,8 +30,8 @@ A simple URL shortener built with **Node.js**, **Express**, and **MongoDB**. Thi
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repo-url>
-cd <your-repo-folder>
+git clone https://github.com/R1SH4BH81/url-shortner-node
+cd url-shortner-node
 ```
 
 ### 2. Install dependencies
