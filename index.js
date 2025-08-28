@@ -10,6 +10,7 @@ app.use(express.json());
 connectDB();
 
 app.use('/url',urlRoutes)
+
 app.listen(PORT, () => {
   console.log(`Server is running on port ${PORT}`)
 })
